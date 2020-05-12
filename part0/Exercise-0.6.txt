@@ -1,0 +1,10 @@
+title Exercise-0.6
+
+note over browser:
+browser executes the event handler
+that renders notes to display
+end note
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+
+
+
